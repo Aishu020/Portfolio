@@ -1,10 +1,11 @@
 import illustration from './illustrationimg.png';
+import resumePdf from './Aishwarya K S - Resume.pdf';
 
 export default function Hero() {
   return (
     <section id="home" className="hero section">
       <div className="hero__content reveal">
-        <p className="hero__kicker">Hello, Iï¿½m</p>
+        <p className="hero__kicker">Hello, I’m</p>
         <h1 className="hero__title">Aishwarya K S</h1>
         <p className="hero__lead">
           Aspiring Software Developer. Full-stack builder & AI enthusiast. I
@@ -14,7 +15,7 @@ export default function Hero() {
           <a className="btn btn--primary" href="#contact">
             Say Hello!
           </a>
-          <a className="btn btn--ghost" href="#" aria-label="Download resume">
+          <a className="btn btn--ghost" href={resumePdf} download>
             Download Resume
           </a>
         </div>
