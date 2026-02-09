@@ -4,8 +4,8 @@ const CERTIFICATIONS = [
     issuer: 'Google for Education - 2026',
   },
   {
-    title: 'AI Fundamentals with IBM SkillsBuild',
-    issuer: 'Cisco Networking Academy - 2026',
+    title: 'Artificial Intelligence Fundamentals',
+    issuer: 'IBM SkillsBuild - 2026',
   },
   {
     title: 'Microsoft: Copilot Foundations',

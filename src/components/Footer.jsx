@@ -38,7 +38,7 @@ export default function Footer() {
             </svg>
           </a>
           <a
-            href="https://github.com/your-username"
+            href="https://github.com/Aishu020"
             target="_blank"
             rel="noreferrer"
             aria-label="GitHub"
