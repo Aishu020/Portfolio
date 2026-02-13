@@ -1,5 +1,5 @@
 import illustration from './illustrationimg.png';
-import resumePdf from 'C:\\Users\\aishu\\Portfolio\\src\\components\\Resume_ Aishwarya K S.pdf';
+import resumePdf from 'C:\\Users\\aishu\\Portfolio\\src\\components\\Aishwarya_Resume.pdf';
 
 export default function Hero() {
   return (
